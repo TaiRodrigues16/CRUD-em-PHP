@@ -26,8 +26,6 @@ senha.
 4) Agora para facilitar nesse primeiro momento não utilizaremos padrão MVC, faremos os scripts
 de forma bem simples. O SEU OBJETIVO NESSA ATIVIDADE É CUMPRIR A MISSÃO DE
 CONSTRUIR UM CRUD. Utilize como ideia o modelo de crud fornecido
-5) Essa atividade é um desafio, então vocês podem PESQUISAR, APROVEITAR CÓDIGO, etc.
-6) Data de entrega: 02/dezembro/2019
 
 Critérios de avaliação:
 
