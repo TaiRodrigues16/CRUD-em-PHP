@@ -3,6 +3,7 @@
 Desenvolvimento Web - Atividade 5  -> Prof. Tiago Bacciotti Moreira
 
 Observações:
+
 ● O exercício deverá ser desenvolvido em duplas ou individual.
 
 ● Esse trabalho deverá ser entregue através do formulário de entrega 
@@ -43,6 +44,7 @@ Critérios de avaliação:
 
 
 Sugestão para consulta:
+
 http://www.codigomaster.com.br/desenvolvimento/crud-com-php-de-forma-simples-e-facil
 
 https://agencia.yesbr.com.br/dicas-e-tutoriais/criando-crud-em-php/
