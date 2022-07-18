@@ -3,11 +3,11 @@
 Desenvolvimento Web - Atividade 5  -> Prof. Tiago Bacciotti Moreira
 
 Observações:
-● O exercício deverá ser desenvolvido em duplas ou individual.
-● Esse trabalho deverá ser entregue através do formulário de entrega
+● O exercício deverá ser desenvolvido em duplas ou individual.\n
+● Esse trabalho deverá ser entregue através do formulário de entrega \n
 ● Coloque os arquivos trabalhados em um zip com o nome de DW - Atividade5.zip. Quando você fizer o
 envio automaticamente o Google Drive adiciona seu nome ao arquivo.
-
+\n
 Atividade: Criação de um CRUD em PHP
 
 O objetivo dessa atividade é a construção de um CRUD (Create - Retrieve - Update - Delete) com a
