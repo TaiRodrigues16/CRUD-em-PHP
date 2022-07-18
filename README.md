@@ -1,6 +1,7 @@
 # CRUD em PHP - Exercício Resolvido
 
 Desenvolvimento Web - Atividade 5  -> Prof. Tiago Bacciotti Moreira
+
 Observações:
 ● O exercício deverá ser desenvolvido em duplas ou individual.
 ● Esse trabalho deverá ser entregue através do formulário de entrega
