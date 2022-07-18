@@ -3,11 +3,13 @@
 Desenvolvimento Web - Atividade 5  -> Prof. Tiago Bacciotti Moreira
 
 Observações:
-● O exercício deverá ser desenvolvido em duplas ou individual.\n
-● Esse trabalho deverá ser entregue através do formulário de entrega \n
+● O exercício deverá ser desenvolvido em duplas ou individual.
+
+● Esse trabalho deverá ser entregue através do formulário de entrega 
+
 ● Coloque os arquivos trabalhados em um zip com o nome de DW - Atividade5.zip. Quando você fizer o
 envio automaticamente o Google Drive adiciona seu nome ao arquivo.
-\n
+
 Atividade: Criação de um CRUD em PHP
 
 O objetivo dessa atividade é a construção de um CRUD (Create - Retrieve - Update - Delete) com a
@@ -28,13 +30,21 @@ CONSTRUIR UM CRUD. Utilize como ideia o modelo de crud fornecido
 
 Critérios de avaliação:
 ● Entregar o código FUNCIONANDO no dat
+
 ● Inclusão de dados funcionando
+
 ● Listagem de dados funcionando
+
 ● Utilizar bootstrap para deixar o visual “mais bonito”
+
 ● Exclusão de dados funcionando
+
 ● Atualização de dados funcionando
+
 
 Sugestão para consulta:
 http://www.codigomaster.com.br/desenvolvimento/crud-com-php-de-forma-simples-e-facil
+
 https://agencia.yesbr.com.br/dicas-e-tutoriais/criando-crud-em-php/
+
 https://secure.php.net/manual/pt_BR/book.mysqli.php
