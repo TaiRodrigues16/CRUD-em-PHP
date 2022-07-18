@@ -30,6 +30,7 @@ CONSTRUIR UM CRUD. Utilize como ideia o modelo de crud fornecido
 6) Data de entrega: 02/dezembro/2019
 
 Critérios de avaliação:
+
 ● Entregar o código FUNCIONANDO no dat
 
 ● Inclusão de dados funcionando
